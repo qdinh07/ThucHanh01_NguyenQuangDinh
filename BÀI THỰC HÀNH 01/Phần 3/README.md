@@ -1,4 +1,3 @@
-# ThucHanh1_NHANTUYENVINH
 (Trích dẫn nguồn AI - Canva AI)
 Thiết kế một infographic giáo dục, chuyên nghiệp, dễ hiểu về chủ đề "Ứng dụng Trí tuệ Nhân tạo (AI) trong Công nghệ Thông tin".
 
